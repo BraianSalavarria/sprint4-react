@@ -8,9 +8,7 @@ La aplicación permite explorar los resultados dinámicamente, cambiar entre **m
 
 ## 📸 Vista previa
 
-https://github.com/user-attachments/assets/f43aacbb-1309-4591-8bcf-ff75c42162be
-
-
+https://github.com/user-attachments/assets/9f48c8b5-fc75-4591-8c99-b391b72a3099
 
 ---
 ## 🚀 Características principales
