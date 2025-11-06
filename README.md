@@ -6,6 +6,10 @@ La aplicación permite explorar los resultados dinámicamente, cambiar entre **m
 
 ---
 
+## 📸 Vista previa
+https://github.com/user-attachments/assets/817dbfc2-5c88-4311-99af-60c479fe3912
+
+
 ## 🚀 Características principales
 
 - 🔗 **Consumo de la API de TMDb** para obtener películas populares.
