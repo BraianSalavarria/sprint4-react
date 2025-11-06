@@ -7,9 +7,12 @@ La aplicación permite explorar los resultados dinámicamente, cambiar entre **m
 ---
 
 ## 📸 Vista previa
-https://github.com/user-attachments/assets/817dbfc2-5c88-4311-99af-60c479fe3912
+---
+https://github.com/user-attachments/assets/f43aacbb-1309-4591-8bcf-ff75c42162be
 
 
+
+---
 ## 🚀 Características principales
 
 - 🔗 **Consumo de la API de TMDb** para obtener películas populares.
@@ -56,4 +59,24 @@ https://github.com/user-attachments/assets/817dbfc2-5c88-4311-99af-60c479fe3912
    ```bash
    npm run dev
    
-   
+---
+ 
+ ## 📄 Licencia
+
+Este proyecto es de uso libre con fines educativos y de práctica. Podés modificarlo, mejorarlo y usarlo como referencia.
+
+---
+
+## 👨‍💻 Autor
+<table>
+  <tr>
+    <td align="center">
+      <strong>Braian S.</strong><br>
+      <em>Desarrollador en formación</em><br>
+      Proyecto personal de aprendizaje React<br>
+      📍 Catamarca, Argentina<br><br>
+      💼 <a href="https://www.linkedin.com/feed/">LinkedIn</a> | 🐙 <a href="https://github.com/BraianSalavarria">GitHub</a><br><br>
+      💬 <em>"Aprender haciendo es la mejor manera de dominar React."</em>
+    </td>
+  </tr>
+</table> 
