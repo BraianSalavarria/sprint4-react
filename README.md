@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/9f48c8b5-fc75-4591-8c99-b391b72a3099
 3. **Configuración de variables de entono**
    ```bash
     VITE_API_KEY=tu_api_key_de_tmdb
-    VITE_BASE_URL=https://api.themoviedb.org/3
+   
 4. **Ejecutar Servidor**
    ```bash
    npm run dev
