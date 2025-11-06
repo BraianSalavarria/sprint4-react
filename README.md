@@ -4,10 +4,10 @@ Este proyecto es una aplicación desarrollada con **React** que consume la API p
 
 La aplicación permite explorar los resultados dinámicamente, cambiar entre **modo oscuro y modo claro**, y cargar más películas sin recargar la página.
 
----
+
 
 ## 📸 Vista previa
----
+
 https://github.com/user-attachments/assets/f43aacbb-1309-4591-8bcf-ff75c42162be
 
 
@@ -65,7 +65,6 @@ https://github.com/user-attachments/assets/f43aacbb-1309-4591-8bcf-ff75c42162be
 
 Este proyecto es de uso libre con fines educativos y de práctica. Podés modificarlo, mejorarlo y usarlo como referencia.
 
----
 
 ## 👨‍💻 Autor
 <table>
